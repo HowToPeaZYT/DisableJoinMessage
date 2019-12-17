@@ -1,5 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NxtUser-HD/DisableJoinMessage
+
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Hyroxing/GlobalGroups
 branches:
 - master
-projects: []
+projects:
+  DisableJoinMessage:
+    path: DisableJoinMessage-NxtUserHD/
 ...
